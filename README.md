@@ -1,5 +1,9 @@
-### Hi there 👋
-
+### Hi, I'm Patrícia! 👋
+🔥 Junior Web Developer 
+✨ Favorite Tech: SQL, HTML, XML, Python ...
+📓 I’m currently XML... 
+✉️ anappafonso@gmail.com
+💼 LinkedIn: https://www.linkedin.com/in/patr%C3%ADcia-afonso-470222204/
 <!--
 **AnaPatriciaAfonso/AnaPatriciaAfonso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
