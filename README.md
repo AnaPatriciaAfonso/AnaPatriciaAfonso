@@ -3,7 +3,7 @@
 ### ✨ Favorite Tech: SQL, HTML, XML, Python, JavaScript, JQuery, Bootstrap ...
 ### 📓 I’m currently learning Python... 
 ### ✉️ anappafonso@gmail.com
-### 💼 LinkedIn: https://www.linkedin.com/in/patr%C3%ADcia-afonso-470222204/
+### 💼 LinkedIn: https://www.linkedin.com/in/patricia-afonso
 <!--
 **AnaPatriciaAfonso/AnaPatriciaAfonso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
