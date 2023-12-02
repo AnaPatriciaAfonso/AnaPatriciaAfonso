@@ -1,7 +1,4 @@
-### Hi, I'm Patrícia! 👋
-### 🔥 Junior Web Developer 
-### ✨ Favorite Tech: JavaScript, React, HTML & CSS, Bootstrap, Python, SQL ...
-### 📓 I’m currently learning Flask... 
+### Hi, I'm Patrícia! 
 ### ✉️ anappafonso@gmail.com
 ### 💼 LinkedIn: https://www.linkedin.com/in/patricia-afonso
 <!--
